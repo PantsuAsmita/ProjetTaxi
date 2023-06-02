@@ -1,5 +1,6 @@
 # :oncoming_taxi: Projet VitaliTaxi :oncoming_taxi:
-Bienvenue dans le projet VitaliTaxi ! 👋 
+**Bienvenue dans le projet VitaliTaxi !** 👋 
+
 Nous devons développer des modèles de prédiction pour estimer le prix des courses de taxi à New York dans le cadre de notre formation. 🗽
 
 Notre principal défi consiste à utiliser les fichiers en format .parquet disponibles en open data sur le site officiel de la ville pour créer ces modèles de prédiction. Nous devons analyser et traiter ces données afin de déterminer les facteurs qui influencent le prix des courses de taxi.
