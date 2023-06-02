@@ -15,4 +15,4 @@ Lien de la source des données: [Taxi & Limousine Commission](https://www.nyc.go
 - [ ] Exploration des données
 - [ ] Choix des modèles les plus pertinants
 - [ ] Entrainement des premiers modèles
-- [ ] Amélioration des paramêtres de modèle
+- [ ] Amélioration des paramètres de modèle
