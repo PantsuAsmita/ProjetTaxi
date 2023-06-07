@@ -12,9 +12,9 @@ Lien de la source des données: [Taxi & Limousine Commission](https://www.nyc.go
 ## Liste des tâches :clipboard:
 
 - [X] Récupération des données
-- [ ] Exploration des données 80% `#9ACD32`
+- [ ] Exploration des données ![#9ACD32](https://placehold.co/15x15/9ACD32/9ACD32.png) 80%
 - [X] Choix des modèles les plus pertinants
-- [ ] Entrainement des premiers modèles 50% `#FF7F00`
+- [ ] Entrainement des premiers modèles ![#FF7F00](https://placehold.co/15x15/FF7F00/FF7F00.png) 50%
 - [ ] Amélioration des paramètres de modèle
 - [ ] Ajouts de commentaire la où c'est nécessaire
 - [ ] Écriture du rapport
